@@ -17,4 +17,4 @@ from Apr 2024 to Apr 2025 using NSE India data.
 - NSE India Data
 
 ## Dashboard Preview
-![Dashboard](screenshot.png)
+![Dashboard](dashboard.png)
